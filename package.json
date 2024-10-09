@@ -44,10 +44,5 @@
     "vite": "^5.4.1",
     "vite-plugin-node-polyfills": "^0.22.0",
     "vite-tsconfig-paths": "^5.0.1"
-  },
-  "create-solana-dapp": {
-    "versions": {
-      "solana": "1.18.0"
-    }
   }
 }
