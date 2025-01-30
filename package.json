@@ -47,7 +47,7 @@
   },
   "create-solana-dapp": {
     "rename": {
-      "placeholder": {
+      "scaffold": {
         "to": "{{name}}",
         "paths": [
           "src"
